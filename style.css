@@ -1,0 +1,78 @@
+.background-image {
+    background-image: url("https://res.cloudinary.com/dhvof3eb6/image/upload/v1675259525/background-layer_ccyxoo.jpg");
+    height: 40vh;
+}
+
+.logo {
+    height: 40px;
+}
+
+.para {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.para1 {
+    text-align: center;
+    color: white;
+}
+
+.our-vision-image-para {
+    font-weight: bold;
+}
+
+.our-mission-image-para {
+    font-weight: bold;
+}
+
+.about-us-head {
+    color: #139139;
+}
+
+.awards-head {
+    color: #139139;
+}
+
+.awards-images {
+    height: 80px;
+    margin-left: 10px;
+}
+
+.awards-heading {
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.award-container {
+    text-align: center;
+}
+
+.horizontal-line {
+    width: 40px;
+}
+
+.awards-paragraph {
+    font-size: 7px;
+    color: #0a0a0a;
+}
+
+.icon-images {
+    height: 20px;
+    color: white;
+}
+
+.icon-container {
+    text-align: center;
+    background-color: grey;
+    border-radius: 30px;
+    height: 30px;
+    width: 30px;
+    padding: 2px;
+}
+
+.p {
+    font-size: 10px;
+    color: grey;
+}
